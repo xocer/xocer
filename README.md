@@ -1,5 +1,13 @@
-### Hi there 👋
+### Всем привет! Меня зовут Виктор 👋
+Я учу Java вместе с [Job4j](https://job4j.ru/) :coffee:
 
+## Мои проекты:
+:one: [ToDo List] Сервис позволяет вести список задач.
+:two: [Dream Job] Сервис для поиска работы.
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=xocer&hide=stars,prs,issues,contribs)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xocer&layout=compact)](https://github.com/ShamRail/github-readme-stats)
 <!--
 **xocer/xocer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
