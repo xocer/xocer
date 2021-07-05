@@ -2,9 +2,11 @@
 Я учу Java вместе с [Job4j](https://job4j.ru/) :coffee:
 
 ### Мои проекты:
-#### :one: [ToDo List](https://github.com/xocer/job4j_todo) Сервис позволяет вести список задач.
+#### :one: [ToDo List](https://github.com/xocer/job4j_car_accident) Сервис позволяет сообщать о ДТП. Java, Spring (MVC, Data, Security), Postgres, JSP, Bootstrap
 
-#### :two: [Dream Job](https://github.com/xocer/job4j_dreamjob) Сервис для поиска работы.
+#### :two: [ToDo List](https://github.com/xocer/job4j_todo) Сервис позволяет вести список задач. Java Servlets, Hibernate, Postgres, HTML, bootstrap, ajax
+
+#### :three: [Dream Job](https://github.com/xocer/job4j_dreamjob) Сервис для поиска работы. Java Servlets, Postgres, HTML, ajax, Mockito
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=xocer&hide=stars,prs,issues,contribs)
 
