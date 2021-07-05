@@ -2,7 +2,7 @@
 Я учу Java вместе с [Job4j](https://job4j.ru/) :coffee:
 
 ### Мои проекты:
-#### :one: [ToDo List](https://github.com/xocer/job4j_car_accident) Сервис позволяет сообщать о ДТП. Java, Spring (MVC, Data, Security), Postgres, JSP, Bootstrap
+#### :one: [Car accident](https://github.com/xocer/job4j_car_accident) Сервис позволяет сообщать о ДТП. Java, Spring (MVC, Data, Security), Postgres, JSP, Bootstrap
 
 #### :two: [ToDo List](https://github.com/xocer/job4j_todo) Сервис позволяет вести список задач. Java Servlets, Hibernate, Postgres, HTML, bootstrap, ajax
 
