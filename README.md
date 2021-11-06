@@ -2,11 +2,13 @@
 Я учу Java вместе с [Job4j](https://job4j.ru/) :coffee:
 
 ### Мои проекты:
-#### :one: [Car accident](https://github.com/xocer/job4j_car_accident) Сервис позволяет сообщать о ДТП. Java, Spring (MVC, Data, Security), Postgres, JSP, Bootstrap
+#### :one: [Forum](https://github.com/xocer/job4j_forum) Мини-форум. Проект можно посмотреть через Heroku Java 17, Spring (Boot, Security, Data, MVC), Liquibase, jsp/bootstrap, Postgres
 
-#### :two: [ToDo List](https://github.com/xocer/job4j_todo) Сервис позволяет вести список задач. Java Servlets, Hibernate, Postgres, HTML, bootstrap, ajax
+#### :two: [Car accident](https://github.com/xocer/job4j_car_accident) Сервис позволяет сообщать о ДТП. Java, Spring (MVC, Data, Security), Postgres, JSP, Bootstrap
 
-#### :three: [Dream Job](https://github.com/xocer/job4j_dreamjob) Сервис для поиска работы. Java Servlets, Postgres, HTML, ajax, Mockito
+#### :three: [ToDo List](https://github.com/xocer/job4j_todo) Сервис позволяет вести список задач. Java Servlets, Hibernate, Postgres, HTML, bootstrap, ajax
+
+#### :four: [Dream Job](https://github.com/xocer/job4j_dreamjob) Сервис для поиска работы. Java Servlets, Postgres, HTML, ajax, Mockito
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=xocer&hide=stars,prs,issues,contribs)
 
