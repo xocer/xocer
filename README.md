@@ -2,7 +2,7 @@
 Я учу Java вместе с [Job4j](https://job4j.ru/) :coffee:
 
 ### Мои проекты:
-#### :one: [Forum](https://github.com/xocer/job4j_forum) Мини-форум. Проект можно посмотреть через Heroku Java 17, Spring (Boot, Security, Data, MVC), Liquibase, jsp/bootstrap, Postgres
+#### :one: [Forum](https://github.com/xocer/job4j_forum) Мини-форум. Проект можно посмотреть через Heroku. Spring (Boot, Security, Data, MVC), Liquibase, jsp/bootstrap, Postgres
 
 #### :two: [Car accident](https://github.com/xocer/job4j_car_accident) Сервис позволяет сообщать о ДТП. Java, Spring (MVC, Data, Security), Postgres, JSP, Bootstrap
 
