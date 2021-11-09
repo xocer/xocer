@@ -10,6 +10,10 @@
 
 #### :four: [Dream Job](https://github.com/xocer/job4j_dreamjob) Сервис для поиска работы. Java Servlets, Postgres, HTML, ajax, Mockito
 
+### Мои тестовые задания:
+
+#### :zap: [Table of colors](https://github.com/xocer/rtkit_test_task) Таблица цветов. Меняется отображение при нажание на название цвета.
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=xocer&hide=stars,prs,issues,contribs)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xocer&layout=compact)](https://github.com/xocer/github-readme-stats)
